@@ -1,0 +1,10 @@
+public class Duplicates {
+    public static void main(String[] args) {
+        double num1 = 10, num2 = 23;
+        if (num1 > 10) {
+            if (num2 > 20) System.out.println("False");
+        }
+        else System.out.println("True");
+
+    }
+}
